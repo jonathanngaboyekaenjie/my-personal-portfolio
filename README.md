@@ -1,5 +1,5 @@
 Jonathan Enjie's Portfolio
-Welcome to my personal portfolio! Here, you can explore my projects, which showcase my skills in HTML, CSS, and JavaScript. My goal is to create engaging and user-friendly web experiences.
+Welcome to my personal portfolio! Here, you can explore my projects, which showcase my skills in HTML, CSS, React.js ,Node.js and JavaScript. My goal is to create engaging and user-friendly web experiences.
 
 About Me
 I’m Jonathan Enjie, a passionate software engineer with a focus on front-end development. I love crafting responsive and interactive websites that not only look great but also provide seamless user experiences.
